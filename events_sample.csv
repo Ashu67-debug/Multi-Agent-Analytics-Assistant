@@ -1,0 +1,26 @@
+event_id,user_id,event_type,event_time,session_id,device,success
+E0001,U001,login,2024-01-01 08:00:00,S001,mobile,1
+E0002,U001,view_item,2024-01-01 08:01:15,S001,mobile,1
+E0003,U001,add_to_cart,2024-01-01 08:03:40,S001,mobile,1
+E0004,U002,login,2024-01-01 09:10:00,S002,desktop,1
+E0005,U002,view_item,2024-01-01 09:11:05,S002,desktop,1
+E0006,U002,checkout,2024-01-01 09:20:00,S002,desktop,0
+E0007,U003,login,2024-01-01 10:05:00,S003,mobile,1
+E0008,U003,view_item,2024-01-01 10:06:10,S003,mobile,1
+E0009,U003,add_to_cart,2024-01-01 10:07:20,S003,mobile,1
+E0010,U003,checkout,2024-01-01 10:10:00,S003,mobile,1
+E0011,U004,login,2024-01-02 11:00:00,S004,desktop,1
+E0012,U004,view_item,2024-01-02 11:02:00,S004,desktop,1
+E0013,U005,login,2024-01-02 12:00:00,S005,mobile,0
+E0014,U005,login,2024-01-02 12:01:00,S005,mobile,1
+E0015,U005,view_item,2024-01-02 12:03:00,S005,mobile,1
+E0016,U005,add_to_cart,2024-01-02 12:05:00,S005,mobile,1
+E0017,U005,checkout,2024-01-02 12:10:00,S005,mobile,1
+E0018,U006,login,2024-01-03 13:00:00,S006,desktop,1
+E0019,U006,view_item,2024-01-03 13:01:00,S006,desktop,1
+E0020,U006,add_to_cart,2024-01-03 13:04:00,S006,desktop,0
+E0021,U007,login,2024-01-03 14:00:00,S007,mobile,1
+E0022,U007,view_item,2024-01-03 14:02:00,S007,mobile,1
+E0023,U007,checkout,2024-01-03 14:15:00,S007,mobile,1
+E0024,U008,login,2024-01-04 15:00:00,S008,desktop,1
+E0025,U008,view_item,,S008,desktop,1
